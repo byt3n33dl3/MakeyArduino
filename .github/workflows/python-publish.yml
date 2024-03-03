@@ -18,7 +18,7 @@ permissions:
 jobs:
   deploy:
 
-    runs-on: VS Terminal
+    runs-on: VS Terminal or CMD
 
     steps:
     - uses: actions/checkout@v3
